@@ -4,12 +4,24 @@
 
 ## How to contribute
 
+Please head over to what is our new current (mediawiki) wiki, get yourself an account, and create a page about your research interests, experience, and yourself.
+
+## https://wiki.secondrenaissance.net/ 
+
+#### OLD How to contribute
+
 - Get a Github account
 - Head to https://github.com/life-itself/wiki
 - Choose the page you want to edit
 - Click edit (you may need to fork the repo)
 - Save
 - (Pull request if you had to fork)
+
+----
+
+----
+
+# Below here is the old material up to April 2024
 
 ## Overviews & Maps
 
